@@ -27,7 +27,7 @@ include("foot.php")
 
 <script >  
 
-document.title="ElProfesor"; 
+document.title="Páez Mendoza"; 
 document.getElementById("foto").src="./images/imag.png";
 document.getElementById("elnombre").innerHTML="Páez Mendoza";
 
